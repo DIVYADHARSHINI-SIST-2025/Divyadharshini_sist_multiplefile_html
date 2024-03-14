@@ -1,0 +1,15 @@
+.di{
+    background-color: black;
+    color: white;
+    
+}
+img{
+    display: block;
+    width: 300px;
+}
+.div2{
+    margin-top: 60px;
+}
+ul,li{
+    text-align: right;
+}
